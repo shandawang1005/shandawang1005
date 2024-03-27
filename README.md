@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Shanda
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on changing the world
+- 📫 How to reach me :Msg me on Github
+- 😄 Pronouns: Shan da
+- ⚡ Fun fact: I turn from tax accountant to software engineer
 
 <!---
 shandawang1005/shandawang1005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
