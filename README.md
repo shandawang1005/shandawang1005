@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on changing the world
-- 📫 How to reach me :Msg me on Github
+- 📫 How to reach me :Msg me on Github/LinkedIn
 - 😄 Pronouns: Shan da
 - ⚡ With a background in finance and accounting, I made a bold career pivot to pursue my passion for technology. Through rigorous training at App Academy, I developed strong skills in full-stack web development, mastering technologies like JavaScript, React, and Python. I am excited to apply my analytical mindset and technical expertise to build innovative solutions and contribute to the tech industry. My projects demonstrate my ability to design, develop, and deploy scalable web applications that enhance user experiences and streamline operations.
 
