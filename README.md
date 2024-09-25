@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shanda
 - 👀 I’m interested in coding
 - ✨ I’m Located in San Jose, CA
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently looking for a Full Stack Software Engineer work.
 - 💞️ I’m looking to collaborate on changing the world
 - 📫 How to reach me :Msg me on Github/LinkedIn or Email me @: shandawang1005@gmail.com
 - 😄 Pronouned: Shan da
